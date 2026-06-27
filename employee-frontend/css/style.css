@@ -1,0 +1,27 @@
+body{
+
+background:#f4f6f9;
+
+font-family:Arial, Helvetica, sans-serif;
+
+}
+
+.navbar{
+
+margin-bottom:30px;
+
+}
+
+h2{
+
+font-weight:bold;
+
+}
+
+.table{
+
+background:white;
+
+box-shadow:0 0 10px rgba(0,0,0,0.15);
+
+}
